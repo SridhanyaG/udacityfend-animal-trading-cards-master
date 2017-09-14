@@ -1,1 +1,39 @@
 /* add your CSS here */
+#main {
+	width: 300px;
+}
+
+.frame {
+	border: 1px solid  #e0ebeb;	
+}
+
+.block {
+	padding: 10px;
+}
+
+h3 {
+	padding: 10px;
+}
+
+#animal {
+	width: 300px;
+	border: 1px solid  #000000;
+	margin-bottom: 10px;
+}
+
+
+ul {
+	padding-left: 0px;
+}
+
+li {
+	list-style:  none;
+}
+
+li > span {
+	font-weight: bold;
+}
+
+#ifact {
+	font-style: italic;
+}
